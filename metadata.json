@@ -1,0 +1,6 @@
+{
+  "name": "Data Preprocessing Studio",
+  "description": "Interactive Machine Learning data cleaning, preprocessing, exploratory data analysis, and feature transformation pipeline for tabular datasets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
